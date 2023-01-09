@@ -1,0 +1,51 @@
+name: tf
+channels:
+  - defaults
+dependencies:
+  - cudatoolkit=11.7
+  - cudnn=8.3
+  - pip
+  - python=3.10
+  - backcall
+  - asttokens
+  - pygments
+  - pure_eval
+  - sqlite
+  - vc
+  - jedi
+  - pyzmq
+  - certifi
+  - ipython
+  - tornado
+  - tzdata
+  - ca-certificates
+  - pywin32
+  - bzip2
+  - libzlib
+  - entrypoints
+  - openssl
+  - jupyter_client
+  - parso
+  - debugpy
+  - wincertstore
+  - libffi
+  - jupyter_core
+  - setuptools
+  - six
+  - pickleshare
+  - tk
+  - decorator
+  - prompt-toolkit
+  - traitlets
+  - nest-asyncio
+  - wheel
+  - xz
+  - colorama
+  - executing
+  - wcwidth
+  - stack_data
+  - matplotlib-inline
+  - python-dateutil
+  - vs2015_runtime
+  - ipykernel
+prefix: C:\Users\Liu\.conda\envs\tf
